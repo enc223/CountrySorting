@@ -1,0 +1,243 @@
+AD|Andorra|Andorra la Vella|468
+AE|United Arab Emirates|Abu Dhabi|83600
+AF|Afghanistan|Kabul|652230
+AG|Antigua and Barbuda|Saint John's|442
+AI|Anguilla|The Valley|91
+AL|Albany|Tirana|28748
+AM|Armenia|Yerevan|29743
+AO|Angola|Luanda|1246700
+AR|Argentina|Buenos Aires|2780400
+AS|American Samoa|Pago Pago|199
+AT|Austria|Vienna|83871
+AU|Australia|Canberra|7741220
+AW|Aruba|Oranjestad|180
+AX|Aland Islands|Mariehamn|1552
+AZ|Azerbaijan|Baku|86600
+BA|Bosnia and Herzegovina|Sarajevo|51197
+BB|Barbados|Bridgetown|430
+BD|Bangladesh|Dhaka|143998
+BE|Belgium|Brussels|30528
+BF|Burkina Faso|Ouagadougou|274200
+BG|Bulgaria|Sofia|110879
+BH|Bahrain|Manama|760
+BI|Burundi|Bujumbura|27830
+BJ|Benin|Porto-Novo|112622
+BL|Saint Barthelemy|Gustavia|21
+BM|Bermuda|Hamilton|54
+BN|Brunei|Bandar Seri Begawan|5765
+BO|Bolivia|Sucre|1098581
+BQ|Bonaire, Saint Eustatius and Saba|Kralendijk|328
+BR|Brazil|Brasilia|8514877
+BS|Bahamas|Nassau|13880
+BT|Buthan|Thimphu|38394
+BW|Botswana|Gaborone|581730
+BY|Belarus|Minsk|207600
+BZ|Belize|Belmopan|22966
+CA|Canada|Ottawa|9984670
+CC|Cocos Islands|West Island|14
+CD|Democratic Republic of the Congo|Kinshasa|2344858
+CF|Central African Republic|Bangui|622984
+CG|Republic of the Congo|Brazzaville|342000
+CH|Switzerland|Bern|41277
+CI|Ivory Coast|Yamoussoukro|322463
+CK|Cook Islands|Avarua|236
+CL|Chile|Santiago|756102
+CM|Cameroon|Yaounde|475440
+CN|China|Beijing|9596961
+CO|Columbia|Bogota|1138910
+CR|Costa Rica|San Jose|51100
+CU|Cuba|Havana|110860
+CV|Cap Verde|Praia|4033
+CW|Curacao|Willemstad|444
+CX|Christmas Island|Flying Fish Cove|135
+CY|Cyprus|Nicosia|9251
+CZ|Czech Republic|Prague|78867
+DE|Germany|Berlin|357022
+DJ|Djibouti|Djibouti|23200
+DK|Denmark|Copenhagen|43094
+DM|Dominica|Roseau|751
+DO|Dominican Republic|Santo Domingo|48670
+DZ|Algeria|Algiers|2381741
+EC|Equador|Quito|283561
+EE|Estonia|Tallinn|45228
+EG|Egypt|Cairo|1001450
+EH|Western Sahara|Laayoune|266000
+ER|Eritrea|Asmara|117600
+ES|Spain|Madrid|505370
+ET|Ethiopia|Addis Ababa|1104300
+FI|Finland|Helsinki|338145
+FJ|Fiji|Suva|18274
+FK|Falkland Islands|Stanley|12173
+FM|Micronesia|Palikir|702
+FO|Faroe Islands|Torshavn|1393
+FR|France|Paris|643801
+GA|Gabon|Libreville|267667
+GB|United Kingdom|London|243610
+GD|Grenada|Saint George's|344
+GE|Georgia|Tbilisi|69700
+GF|French Guiana|Cayenne|86504
+GG|Guernsey|Saint Peter Port|78
+GH|Ghana|Accra|238533
+GI|Gibraltar|Gibraltar|6
+GL|Greenland|Nuuk|2166086
+GM|Gambia|Banjul|11295
+GN|Guinea|Conakry|245857
+GP|Guadeloupe|Basse-terre|1630
+GQ|Equatorial Guinea|Malabo|28051
+GR|Greece|Athens|131957
+GS|South Georgia and the South Sandwich Islands|Grytviken|3903
+GT|Guatemala|Guatemala City|108889
+GU|Guam|Hagatna|544
+GW|Guinea-Bissau|Bissau|36125
+GY|Guyana|Georgetown|214969
+HN|Honduras|Tegucigalpa|112090
+HR|Croatia|Zagreb|56594
+HT|Haiti|Port-au-prince|27750
+HU|Hungary|Budapest|93028
+ID|Indonesia|Jakarta|1904569
+IE|Ireland|Dublin|70273
+IL|Israel|Jerusalem|20770
+IM|Isle of Man|Douglas|572
+IN|India|New Delhi|3287263
+IO|British Indian Ocean Territory|Diego Garcia|54400
+IQ|Iraq|Baghdad|438317
+IR|Iran|Tehran|1648195
+IS|Iceland|Reykjavik|103000
+IT|Italy|Roma|301340
+JE|Jersey|Saint Helier|116
+JM|Jamaica|Kingston|10991
+JO|Jordan|Amman|89342
+JP|Japan|Tokyo|377915
+KE|Kenya|Nairobi|580367
+KG|Kyrgyzstan|Bishkek|199951
+KH|Cambodia|Phnom Penh|181035
+KI|Kiribati|Tarawa|811
+KM|Comoros|Moroni|2235
+KN|Saint Kitts and Nevis|Basseterre|261
+KP|North Korea|Pyongyang|120538
+KR|South Korea|Seoul|99720
+KW|Kuwait|Kuwait|17818
+KY|Kayman Islands|George Town|264
+KZ|Kazakhstan|Astana|2724900
+LA|Laos|Vientiane|236800
+LB|Lebanon|Beirut|10400
+LC|Saint Lucia|Castries|616
+LI|Liechtenstein|Vaduz|160
+LK|Sri Lanka|Sri Jayewardenepura Kotte|65610
+LR|Liberia|Monrovia|111369
+LS|Lesotho|Maseru|30355
+LT|Luthuania|Vilnius|65300
+LU|Luxembourg|Luxembourg|2586
+LV|Latvia|Riga|64589
+LY|Lybia|Tripoli|1759540
+MA|Morocco|Rabat|446550
+MC|Monaco|Monaco|2
+MD|Moldova|Chisinau|33851
+ME|Montenegro|Podgorica|13812
+MF|Saint Martin|Marigot|54
+MG|Madagascar|Antananarivo|587041
+MH|Marshall Islands|Majuro|181
+MK|Macedonia|Skopje|25713
+ML|Mali|Bamako|1240192
+MM|Myanmar|Pyinmana|676578
+MN|Mongolia|Ulaanbaatar|1564116
+MO|Macao|Macau|31.3
+MP|Northern Mariana Islands|Saipan|464
+MQ|Martinique|Fort-de-france|1128
+MR|Mauritania|Nouakchott|1030700
+MS|Monteserrat|Plymouth|102
+MT|Malta|Valletta|316
+MU|Mauritius|Port Louis|2040
+MV|Maldives|Male|298
+MW|Malawi|Lilongwe|118484
+MX|Mexico|Mexico City|1964375
+MY|Malaysia|Kuala Lumpur|329847
+MZ|Mozambique|Maputo|799380
+NA|Namibia|Windhoek|824292
+NC|New Caledonia|Noumea|18575
+NE|Niger|Niamey|1186408
+NF|Norfolk Island|Kingston|36
+NG|Nigeria|Abuja|923768
+NI|Nicaragua|Managua|130370
+NL|Netherlands|Amsterdam|41543
+NO|Norway|Oslo|323802
+NP|Nepal|Kathmandu|147181
+NR|Nauru|Yaren|21
+NU|Niue|Alofi|260
+NZ|New Zealand|Wellington|267710
+OM|Oman|Muscat|309500
+PA|Panama|Panama|75420
+PE|Peru|Lima|1285216
+PF|French Polynesia|Papeete|4167
+PG|Papua New Guinea|Port Moresby|462840
+PH|Philippines|Manila|300000
+PK|Pakistan|Islamabad|796095
+PL|Poland|Warsaw|312685
+PM|Saint Pierre and Miquelon|Saint-pierre|242
+PN|Pitcairn|Adamstown|47
+PR|Puerto Rico|San Juan|13790
+PS|Palestinian Territory|East Jerusalem|5860
+PT|Portugal|Lisbon|92090
+PW|Palau|Melekeok|459
+PY|Paraguay|Asuncion|406752
+QA|Qatar|Doha|11586
+RE|Reunion|Saint-denis|2512
+RO|Romania|Bucharest|238391
+RS|Serbia|Belgrade|77474
+RU|Russia|Moscow|17098242
+RW|Rwanda|Kigali|26338
+SA|Saudi Arabia|Riyadh|2149690
+SB|Solomon Islands|Honiara|28896
+SC|Seychelles|Victoria|455
+SD|Sudan|Khartoum|1861484
+SE|Sweden|Stockholm|450295
+SG|Singapore|Singapore|697
+SH|Saint Helena|Jamestown|122
+SI|Slovenia|Ljubljana|20273
+SJ|Svalbard and Jan Mayen|Longyearbyen|62045
+SK|Slovakia|Bratislava|49035
+SL|Sierra Leone|Freetown|71740
+SM|San Marino|San Marino|61
+SN|Senegal|Dakar|196722
+SO|Somalia|Mogadishu|637657
+SR|Suriname|Paramaribo|163820
+SS|South Sudan|Juba|644329
+ST|Sao Tome and Principe|Sao Tome|964
+SV|El Salvador|San Salvador|21041
+SX|Sint Maarten|Philipsburg|34
+SY|Syria|Damascus|185180
+SZ|Swaziland|Mbabane|17364
+TC|Turks and Caicos Islands|Cockburn Town|948
+TD|Chad|N'djamena|1284000
+TF|French Southern Territories|Port-aux-francais|439781
+TG|Togo|Lome|56785
+TH|Thailand|Bangkok|513120
+TJ|Tajikistan|Dushanbe|143100
+TL|East Timor|Dili|14874
+TM|Turkmenistan|Ashgabat|488100
+TN|Tunisia|Tunis|163610
+TO|Tonga|Nuku'alofa|747
+TR|Turkey|Ankara|783562
+TT|Trinidad and Tobago|Port of Spain|5128
+TV|Tuvalu|Funafuti|26
+TW|Taiwan|Taipei|35980
+TZ|Tanzania|Dodoma|947300
+UA|Ukraine|Kiev|603550
+UG|Uganda|Kampala|241038
+US|United States of America|Washington, D.C.|9826675
+UY|Uruguay|Montevideo|176215
+UZ|Uzbekistan|Tashkent|447400
+VA|Vatican|Vatican City|0.44
+VC|Saint Vincent and the Grenadines|Kingstown|389
+VE|Venezuela|Caracas|912050
+VG|British Virgin Islands|Road Town|151
+VI|US Virgin Islands|Charlotte Amalie|1910
+VN|Vietnam|Ha Noi|331210
+VU|Vanuatu|Port-vila|12189
+WF|Wallis and Futuna|Mata'utu|142
+WS|Samoa|Apia|2831
+YE|Yemen|Sanaa|527968
+YT|Mayotte|Mamoudzou|374
+ZA|South Africa|Cape Town|1219090
+ZM|Zambia|Lusaka|752618
+ZW|Zimbabwe|Harare|390757
